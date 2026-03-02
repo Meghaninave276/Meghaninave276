@@ -106,6 +106,7 @@
 ✔ Send, Edit, Delete Messages  
 ✔ Live Synchronization  
 ✔ Firebase Authentication 
+
 ✔ Link:-https://github.com/Meghaninave276/chat-app 
 
 
